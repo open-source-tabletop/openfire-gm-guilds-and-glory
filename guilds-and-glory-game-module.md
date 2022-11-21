@@ -10,7 +10,7 @@ You will need [the core rules for Open Fire](https://github.com/open-source-tabl
 
 <!-- 
 
-
+An introduction to the module and how each adventure is it's own story. 
 
 -->
 
@@ -19,7 +19,7 @@ You will need [the core rules for Open Fire](https://github.com/open-source-tabl
 
 <!--
 
-
+Dynamic movement (sneak, leap, falling, dodge), Attack type special rules (pushback, stun, pin)
 
 -->
 
@@ -28,7 +28,7 @@ You will need [the core rules for Open Fire](https://github.com/open-source-tabl
 
 <!--
 
-
+Up to 4 characters, each start at level 1
 
 -->
 
@@ -37,6 +37,6 @@ You will need [the core rules for Open Fire](https://github.com/open-source-tabl
 
 <!--
 
-
+Levelling up, buying gear, dealing with injuries, hiring new members
 
 -->

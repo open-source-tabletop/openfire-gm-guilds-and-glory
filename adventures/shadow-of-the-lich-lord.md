@@ -14,4 +14,3 @@ Introduction
 The Shadow of the Lich Lord sees your adventurers delve deep into a forgotten tomb to combat an ancient, undead evil.
 
 ## The Rising Darkness
-

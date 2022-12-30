@@ -3,7 +3,7 @@
 The Well of Sorrows
 ===================
 
-The Well of Sorrows requires the Guilds and Glory rules for Open Fire to play: [view the Guilds and Glory module rules](https://github.com/open-source-tabletop/openfire-gm-guilds-and-glory).
+The Well of Sorrows requires the Guilds and Glory rules for Open Fire to play: [view the Guilds and Glory module rules](../guilds-and-glory-game-module.md).
 
 ## Introduction
 

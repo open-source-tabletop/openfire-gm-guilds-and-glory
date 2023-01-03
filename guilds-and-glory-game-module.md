@@ -40,13 +40,49 @@ Most enemies have pretedermined abilities and setting their rank determines whic
 Section 3 - Creating Characters
 ===============================
 
-## Choosing Class
+## Choose Archetype
 
-## Choosing Archetype
+When creating a character you start by choosing an Archetype which defines your characters main role in the party. Choose from one of the following:
 
-## Choosing Equipment
+- Warrior
+- Mage
+- Paladin
+- Rogue
+- Cleric
 
-## Choosing Abilities
+## Choose Aspect
+
+Once you have your Archetype you then select your Aspect. Rather than including long lists of different species your character could be you simply choose the Aspect that you think most applies to them. You should feel free to use whichever Aspect suits your character and ignore traditional fantasy tropes. Choose one of the following:
+
+- Arcane
+- Natural
+- Shadow
+- Light
+- Enduring
+- Savage
+- Construct
+- Fey
+- Grounded
+
+## Choose Affinity
+
+The last thing to choose is your affinity, this represents a core skillset that your character has. You may only select the affinities allowed by your Archetype or Aspect from the following list:
+
+- Archer
+- One-handed
+- Two-handed
+- Shield
+- Stealth
+- Poison
+- Traps
+- Leadership
+- Destruction
+- Summoning
+- Enchanting
+
+## Choose Abilities
+
+## Choose Weapons and Equipment
 
 Section 4 - Creating a Party
 ============================

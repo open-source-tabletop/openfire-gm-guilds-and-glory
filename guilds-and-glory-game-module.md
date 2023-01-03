@@ -15,6 +15,10 @@ Section 1 - Stories
 Section 2 - Module Rules
 ========================
 
+## 20 Sided Dice
+
+The Guilds and Glory module uses 20 sided dice for dice rolls in place of the usual 12 sided dice.
+
 ## Cooperative Gameplay
 
 Most Open Fire games are designed around 2 or more players, each with their own army, competing in a battle to determine who will be the victor. Guilds and Glory is designed around a group of characters, played by one or more players cooperatively, battling against the game itself. To this end the game defines the group of models which are controlled by the players as "characters" and the hostile models controlled by the game as the "enemies".
@@ -40,15 +44,29 @@ Most enemies have pretedermined abilities and setting their rank determines whic
 Section 3 - Creating Characters
 ===============================
 
+## Determine Starting Attributes
+
+Your character begins with the following attributes:
+
+| Mov | Skl | Def | Cmd | HP  |
+| :-: | :-: | :-: | :-: | :-: |
+| 3   | 18  | 18  | 16  | 20  |
+
+You then have 10 points to spend to improve your abilities.
+
+- Improving your Skill, Defence, or Command reduces the value by 1. This costs 1 additional point every time you improve the same attribute, for example the first improvement costs 1 point, the second costs 2 and so on.
+- Improving your Movement means increasing the value by 1. This costs a number of points equal to the current value of your Movement.
+- Improving your Hit Points means increasing the value by 1 and costs 2 points per improvement.
+
 ## Choose Archetype
 
-When creating a character you start by choosing an Archetype which defines your characters main role in the party. Choose from one of the following:
+When creating a character you start by choosing an Archetype which defines your characters main role in the party. Choose from one of the following and gain the listed benefit:
 
-- Warrior
-- Mage
-- Paladin
-- Rogue
-- Cleric
+- Warrior: improve either your Skill or Defence by 1.
+- Mage: Improve your Command by 1.
+- Paladin: Improve your Defence, Command, or Hit Points by 1.
+- Rogue: Improve your Movement or Skill by 1.
+- Cleric: Improve your Command or Hit Points by 1.
 
 ## Choose Aspect
 

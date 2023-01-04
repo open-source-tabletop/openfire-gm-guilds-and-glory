@@ -41,6 +41,26 @@ Character abilities are expanded from the core rules into several categories and
 
 Most enemies have pretedermined abilities and setting their rank determines which of their abilities they can use. This allows you to more easily customise an adventure to suit your needs. Where an enemy model only has a limited number of abilities you may still increase their rank as this may affect other rules within the game but will not allow you to add more abilities.
 
+## Additional Character Special Rules
+
+The following additional special rules may apply to a character.
+
+### Duelist
+
+This model gains a +Rank modifier to it's skill rolls when attacking an enemy model in assault range if both this model and it's target have no other models in their assault range.
+
+### Split Attacks
+
+When making an attack this model may divide it's total number of attacks with a weapon between 2 different targets.
+
+### Dodge
+
+This model gains a +Rank modifier to it's defence roll when a free attack is made against it.
+
+### Set Traps
+
+### Detect Trap
+
 Section 3 - Creating Characters
 ===============================
 
